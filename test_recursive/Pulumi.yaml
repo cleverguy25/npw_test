@@ -1,0 +1,6 @@
+name: aws-eks-base-infra-cs
+runtime: dotnet
+description: An ASP.NET application to deploy base EKS infrastructure
+config:
+  aws:region:
+    value: us-west-2
